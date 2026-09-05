@@ -1,0 +1,30 @@
+{
+  "name": "Game Project",
+  "tree": {
+    "$className": "DataModel",
+
+    "ReplicatedStorage": {
+      "Shared": {
+        "$path": "src/shared"
+      },
+
+      "Client": {
+        "$path": "src/client"
+      },
+
+      "Interface": {
+        "$path": "src/interface"
+      },
+
+      "Packages": {
+        "$path": "Packages"
+      }
+    },
+
+    "ServerScriptService": {
+      "Server": {
+        "$path": "src/server"
+      }
+    }
+  }
+}
