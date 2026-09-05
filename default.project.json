@@ -1,5 +1,6 @@
 {
   "name": "Game Project",
+  "emitLegacyScripts": false,
   "tree": {
     "$className": "DataModel",
 
@@ -10,10 +11,6 @@
 
       "Client": {
         "$path": "src/client"
-      },
-
-      "Interface": {
-        "$path": "src/interface"
       },
 
       "Packages": {

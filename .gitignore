@@ -1,11 +1,3 @@
-# Project place file
-/Game Project.rbxlx
-
-# Roblox Studio lock files
-/*.rbxlx.lock
-/*.rbxl.lock
-
-# Wally lock
-/wally.lock
-
+wally.lock
+.vscode
 sourcemap.json
