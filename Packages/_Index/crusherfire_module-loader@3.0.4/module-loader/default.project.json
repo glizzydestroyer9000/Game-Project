@@ -1,0 +1,12 @@
+{
+  "name": "module-loader",
+  "tree": {
+    "$path": "src",
+    "ActorForClient": {
+      "$path": "rbxm/ActorForClient.rbxmx"
+    },
+    "ActorForServer": {
+      "$path": "rbxm/ActorForServer.rbxmx"
+    }
+  }
+}
